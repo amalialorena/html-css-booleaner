@@ -1,0 +1,17 @@
+/* attributes */
+*{
+    margin: 0;
+}
+
+.pattern{
+    height: 50px;
+    background-color: cornflowerblue;
+}
+
+/* tags */
+
+div{
+    margin-bottom: 20px;
+}
+
+
