@@ -93,5 +93,16 @@ p {
     font-size: 20px;
     font-weight: 700;
  }
+.author{
+    color:rgb(89, 188, 245);
 
+}
+.small{
+    font-size: 15px;
+    color:#666;
+}
+
+h1 + span{
+    font-size: 20px;
+}
  
