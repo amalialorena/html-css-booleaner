@@ -64,10 +64,27 @@ p {
      position:relative;
 
  }
-.picture1 img{
-    background-size: cover;
-    width: 240px;
+.picture1 {
+    background-image: url("../img/monitor.jpg");
+    width: 210px;
+    height: 145px;
     padding-bottom: 15px;
+    background-size: 100%;
+    background-size: cover;
+    background-repeat:no-repeat;
+    margin-bottom: 20px;
+}
+.picture2 {
+    background-image: url("../img/graph.jpg");
+    width: 210px;
+    height: 145px;
+    padding-bottom: 15px;
+    background-size: 100%;
+    background-size: cover;
+    background-repeat:no-repeat;
+    margin-bottom: 20px;
+}
+
 }
 
  ul {
@@ -87,11 +104,11 @@ p {
  .text-block {
     position:absolute;
     color:white;
-    top:20px;
-    left:30px;
-    padding-bottom: 20px;
+    left:15px;
+    margin-bottom: 20px;
     font-size: 20px;
     font-weight: 700;
+    padding-top:10px;
  }
 .author{
     color:rgb(89, 188, 245);
